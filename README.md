@@ -62,4 +62,4 @@ the player, the spyders (enemies) and the pieces of food are set from the NEW as
 ## Contact
 
 - Please, if you like this engine and made something new to it, contact me via my github profile email
-- Feel free to use and change the code, enjoy it!
+- Feel free to use and change the code, enjoy it, thanks!
