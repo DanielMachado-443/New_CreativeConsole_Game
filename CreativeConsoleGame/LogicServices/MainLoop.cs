@@ -80,7 +80,7 @@ namespace GameBesta.LogicServices {
                     Console.WriteLine("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                             GAME OVER !!! " // << OUT OF PLACE
                         +"\n                                            Final Score: "
                         +RenderConsole.Score(Controller1, Bonus, BonusAcc).Score
-                        +"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
+                        +"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
                     Console.Beep(750, 1000);
                     gameWhile = false;
                 }
